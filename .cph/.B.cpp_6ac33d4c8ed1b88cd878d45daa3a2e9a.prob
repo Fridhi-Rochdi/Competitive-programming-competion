@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\Users\\fridh\\OneDrive\\Bureau\\TCPC\\B.cpp","tests":[{"id":1743121405409,"input":"6\nODOO\nDODOOD\nODODO\nDDDDDDDDD\nDODODODO\nOODO\n","output":"0\n2\n2\n8\n5\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\fridh\\OneDrive\\Bureau\\TCPC\\B.cpp","group":"local","local":true}
